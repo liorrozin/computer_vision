@@ -3,7 +3,7 @@
 # Support different backbones, include PFLD, MobileFaceNet, MobileNet;
 # Retinaface+MobileFaceNet gives the best peformance
 # Cunjian Chen (ccunjian@gmail.com), Feb. 2021
-# Edited by https://github.com/Zayatsoff
+# Edited by https://github.com/liorrozin
 from __future__ import division
 import argparse
 import torch
